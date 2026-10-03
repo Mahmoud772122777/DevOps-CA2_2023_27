@@ -55,6 +55,7 @@ app.get('/', (req, res) => {
     <main>
       <h1>DevOps CA2 Monitoring Service</h1>
       <p>The monitoring service is running.</p>
+      <p>Application version: 2.0.0</p>
     </main>
   </body>
 </html>`);

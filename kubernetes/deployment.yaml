@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: devops-ca2
-          image: docker.io/library/devops-ca2:latest
+          image: docker.io/library/devops-ca2:v2.0.0
           imagePullPolicy: Never
           ports:
             - name: http
